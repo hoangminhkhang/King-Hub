@@ -1,4 +1,4 @@
-local luxurylibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/SixZensED/Scripts/main/Luxury%20V2/Library.lua"))()
+local luxurylibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/hoangminhkhang/King-Hub/main/kinghub.lua"))()
 --
 
 repeat task.wait() until game:IsLoaded()
