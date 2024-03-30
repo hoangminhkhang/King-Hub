@@ -18,7 +18,7 @@ local close_button = function()
 	luxury_close.ResetOnSpawn = false
 
 	close_button.Name = "close_button"
-	close_button.Parent = luxury_close
+	close_button.Parent = hub_close
 	close_button.BackgroundColor3 = Color3.fromRGB(27, 27, 27)
 	close_button.BackgroundTransparency = 0.100
 	close_button.BorderColor3 = Color3.fromRGB(0, 0, 0)
